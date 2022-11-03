@@ -10,7 +10,7 @@ Léo R. Belzile, Anthony C. Davison, Holger Rootzén and Dmitrii Zholud (2021). 
 
 ``` BiBTeX
 @article{Belzile2021,
-  Author = {Léo R. Belzile, Anthony C. Davison, Holger Rootzén and Dmitrii Zholud},
+  Author = {L\'{e}o R. Belzile, Anthony C. Davison, Holger Rootz\'{e}n and Dmitrii Zholud},
   Year = {2021},
   Title = {Human mortality at extreme age},
   Journal = {Royal Society open science},
